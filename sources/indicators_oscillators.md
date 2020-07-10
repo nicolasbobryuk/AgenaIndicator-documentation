@@ -16,7 +16,7 @@ For each indicator you will find a brief description of its interpretation, oper
 
 ## Accumulation/Distribution \(ADL\)
 
-### Description
+Description
 
 The concept of the Accumulation Distribution Line \(ADL\) indicator was developed by Marc Chaikin. The ADL is a volume indicator; it represents the money flow. The ADL is a further development of the On-Balance Volume Indicator developed by Joe Granville, which also happens to be one of the first volume indicators.
 
